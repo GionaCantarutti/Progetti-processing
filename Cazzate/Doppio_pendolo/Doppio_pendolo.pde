@@ -1,5 +1,5 @@
   public static double l1 = 200;
-  public static double l2 = 300;
+  public static double l2 = 310;
   
   public static double m1 = 40;
   public static double m2 = 40;
